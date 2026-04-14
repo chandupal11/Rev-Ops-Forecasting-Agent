@@ -1,0 +1,6 @@
+Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
+1,2026-04-14,META,"Meta Platforms, Inc.",6.5,64.9,Bullish,Yes,662.49
+2,2026-04-14,PANW,"Palo Alto Networks, Inc.",6.5,49.4,Bullish,Yes,161.59
+3,2026-04-14,AMZN,"Amazon.com, Inc.",6.0,76.3,Bullish,Yes,249.02
+4,2026-04-14,AMAT,"Applied Materials, Inc.",6.0,64.2,Bullish,Yes,395.64
+5,2026-04-14,CDNS,"Cadence Design Systems, Inc.",6.0,54.2,Bullish,Yes,292.37
