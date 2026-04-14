@@ -1,0 +1,32 @@
+name: Daily Stock Screener
+
+on:
+  # Runs at 9:30 PM UTC = 4:30 PM ET (30 min after US market close) — weekdays only
+  schedule:
+    - cron: "30 21 * * 1-5"
+  # Allow a manual one-click run from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  screener:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run stock screener
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+          SPREADSHEET_NAME: ${{ secrets.SPREADSHEET_NAME }}
+        run: python main.py
