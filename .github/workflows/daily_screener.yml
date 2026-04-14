@@ -26,7 +26,12 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run stock screener
-        env:
-          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
-          SPREADSHEET_NAME: ${{ secrets.SPREADSHEET_NAME }}
         run: python main.py
+
+      - name: Commit updated CSVs to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add screener_results.csv screener_history.csv
+          git diff --cached --quiet || git commit -m "chore: screener results $(date -u '+%Y-%m-%d')"
+          git push

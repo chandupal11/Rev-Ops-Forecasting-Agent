@@ -4,9 +4,9 @@ Stock Screener — entry point.
 Run locally:
     python main.py
 
-Environment variables:
-    GOOGLE_CREDENTIALS   JSON string of your service account key (required for Sheets output)
-    SPREADSHEET_NAME     Name of the target Google Sheet (default: "Stock Screener Results")
+Output files (written to repo root):
+    screener_results.csv   — full ranked list, overwritten each run
+    screener_history.csv   — top-5 per day appended across runs
 """
 
 import logging
@@ -25,7 +25,6 @@ from screener.config import (
 from screener.data_fetcher import fetch_all_tickers, filter_by_fundamentals
 from screener.indicators import calculate_all_indicators
 from screener.scorer import score_stock
-from screener.sheets_writer import write_to_sheets
 
 logging.basicConfig(
     level=logging.INFO,
@@ -34,9 +33,11 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+RESULTS_FILE = "screener_results.csv"
+HISTORY_FILE = "screener_history.csv"
+
 
 def run_screener() -> pd.DataFrame:
-    # Deduplicated union of both index lists
     universe = list(dict.fromkeys(NASDAQ_TOP_25 + SP500_TOP_25))
     logger.info(f"Universe: {len(universe)} unique tickers  (NASDAQ top 25 + S&P 500 top 25)")
 
@@ -81,22 +82,28 @@ def _print_summary(df: pd.DataFrame) -> None:
     print("=" * 60 + "\n")
 
 
+def write_results(results_df: pd.DataFrame) -> None:
+    # Full ranked snapshot — overwritten every run
+    results_df.to_csv(RESULTS_FILE, index=False)
+    logger.info(f"Results written to {RESULTS_FILE}")
+
+    # Running history — top 5 per day, appended
+    top5 = results_df.head(5).copy()
+    top5.insert(0, "Rank", range(1, len(top5) + 1))
+    history_cols = [
+        "Rank", "Run_Date", "Symbol", "Name", "Score",
+        "RSI", "MACD_Signal", "Above_50SMA", "Price",
+    ]
+    write_header = not os.path.exists(HISTORY_FILE)
+    top5[history_cols].to_csv(HISTORY_FILE, mode="a", index=False, header=write_header)
+    logger.info(f"Top-5 appended to {HISTORY_FILE}")
+
+
 def main() -> None:
     results_df = run_screener()
     if results_df.empty:
         return
-
-    spreadsheet_name = os.environ.get("SPREADSHEET_NAME", "Stock Screener Results")
-    has_creds = bool(os.environ.get("GOOGLE_CREDENTIALS")) or os.path.exists("credentials.json")
-
-    if has_creds:
-        logger.info("Writing results to Google Sheets...")
-        url = write_to_sheets(results_df, spreadsheet_name)
-        print(f"Google Sheet updated: {url}")
-    else:
-        out_path = "screener_results.csv"
-        results_df.to_csv(out_path, index=False)
-        logger.warning(f"No Google credentials found — saved to {out_path}")
+    write_results(results_df)
 
 
 if __name__ == "__main__":
