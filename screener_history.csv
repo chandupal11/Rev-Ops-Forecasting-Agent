@@ -9,3 +9,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-04-16,MU,"Micron Technology, Inc.",6.5,63.2,Bullish,Yes,456.23
 4,2026-04-16,LRCX,Lam Research Corporation,6.5,64.8,Bullish,Yes,265.16
 5,2026-04-16,JPM,JP Morgan Chase & Co.,6.5,58.3,Bullish,Yes,305.93
+1,2026-04-16,SNPS,"Synopsys, Inc.",6.5,60.9,Bullish,Yes,441.15
+2,2026-04-16,V,Visa Inc.,6.0,58.2,Bullish,Yes,315.1
+3,2026-04-16,JPM,JP Morgan Chase & Co.,6.0,61.8,Bullish,Yes,309.95
+4,2026-04-16,LRCX,Lam Research Corporation,6.0,62.1,Bullish,Yes,260.96
+5,2026-04-16,MU,"Micron Technology, Inc.",6.0,63.4,Bullish,Yes,457.23
