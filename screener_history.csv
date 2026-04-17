@@ -14,3 +14,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-04-16,JPM,JP Morgan Chase & Co.,6.0,61.8,Bullish,Yes,309.95
 4,2026-04-16,LRCX,Lam Research Corporation,6.0,62.1,Bullish,Yes,260.96
 5,2026-04-16,MU,"Micron Technology, Inc.",6.0,63.4,Bullish,Yes,457.23
+1,2026-04-17,SNPS,"Synopsys, Inc.",6.5,63.6,Bullish,Yes,449.58
+2,2026-04-17,QCOM,QUALCOMM Incorporated,6.5,61.2,Bullish,Yes,136.2
+3,2026-04-17,TSLA,"Tesla, Inc.",6.5,60.3,Bullish,Yes,400.62
+4,2026-04-17,MU,"Micron Technology, Inc.",6.0,62.6,Bullish,Yes,455.07
+5,2026-04-17,AMAT,"Applied Materials, Inc.",6.0,63.5,Bullish,Yes,396.94
