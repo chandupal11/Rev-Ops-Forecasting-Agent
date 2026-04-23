@@ -29,3 +29,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-04-21,MA,Mastercard Incorporated,6.5,52.2,Bullish,Yes,511.35
 4,2026-04-21,LRCX,Lam Research Corporation,6.0,58.6,Bullish,Yes,258.37
 5,2026-04-21,GOOGL,Alphabet Inc.,6.0,63.0,Bullish,Yes,332.29
+1,2026-04-23,ADBE,Adobe Inc.,6.5,56.8,Bullish,Yes,255.94
+2,2026-04-23,QCOM,QUALCOMM Incorporated,6.5,58.8,Bullish,Yes,136.07
+3,2026-04-23,FTNT,"Fortinet, Inc.",6.5,63.1,Bullish,Yes,87.09
+4,2026-04-23,V,Visa Inc.,6.0,52.1,Bullish,Yes,311.29
+5,2026-04-23,AAPL,Apple Inc.,6.0,62.7,Bullish,Yes,273.17
