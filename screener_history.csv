@@ -44,3 +44,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-04-24,TXN,Texas Instruments Incorporated,6.0,83.6,Bullish,Yes,277.14
 4,2026-04-24,JPM,JP Morgan Chase & Co.,6.0,55.3,Bullish,Yes,308.28
 5,2026-04-24,AAPL,Apple Inc.,5.5,59.7,Bullish,Yes,271.06
+1,2026-04-28,AMAT,"Applied Materials, Inc.",6.0,61.6,Bullish,Yes,404.86
+2,2026-04-28,TXN,Texas Instruments Incorporated,6.0,76.5,Bullish,Yes,269.5
+3,2026-04-28,JPM,JP Morgan Chase & Co.,6.0,58.7,Bullish,Yes,311.63
+4,2026-04-28,WMT,Walmart Inc.,6.0,52.6,Bullish,Yes,127.59
+5,2026-04-28,MSFT,Microsoft Corporation,5.5,63.6,Bullish,Yes,424.82
