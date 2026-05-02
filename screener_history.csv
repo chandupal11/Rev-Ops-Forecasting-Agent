@@ -64,3 +64,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-01,QCOM,QUALCOMM Incorporated,6.0,87.5,Bullish,Yes,179.58
 4,2026-05-01,SNPS,"Synopsys, Inc.",6.0,62.7,Bullish,Yes,482.6
 5,2026-05-01,GOOGL,Alphabet Inc.,5.5,82.4,Bullish,Yes,384.8
+1,2026-05-02,V,Visa Inc.,7.0,63.9,Bullish,Yes,328.03
+2,2026-05-02,QCOM,QUALCOMM Incorporated,6.5,83.4,Bullish,Yes,177.01
+3,2026-05-02,ADBE,Adobe Inc.,6.5,53.5,Bullish,Yes,250.71
+4,2026-05-02,LLY,Eli Lilly and Company,6.5,57.9,Bullish,Yes,963.33
+5,2026-05-02,TSLA,"Tesla, Inc.",6.0,56.1,Bullish,Yes,390.82
