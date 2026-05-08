@@ -84,3 +84,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-07,QCOM,QUALCOMM Incorporated,6.0,80.1,Bullish,Yes,192.57
 4,2026-05-07,V,Visa Inc.,6.0,53.3,Bullish,Yes,318.8
 5,2026-05-07,PG,Procter & Gamble Company (The),6.0,54.8,Bullish,Yes,147.9
+1,2026-05-08,AMAT,"Applied Materials, Inc.",6.5,57.9,Bullish,Yes,410.64
+2,2026-05-08,TSLA,"Tesla, Inc.",6.5,64.6,Bullish,Yes,411.79
+3,2026-05-08,LLY,Eli Lilly and Company,6.5,58.4,Bullish,Yes,974.96
+4,2026-05-08,LRCX,Lam Research Corporation,6.5,63.5,Bullish,Yes,286.52
+5,2026-05-08,ADBE,Adobe Inc.,6.0,56.6,Bullish,Yes,256.51
