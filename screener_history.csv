@@ -89,3 +89,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-08,LLY,Eli Lilly and Company,6.5,58.4,Bullish,Yes,974.96
 4,2026-05-08,LRCX,Lam Research Corporation,6.5,63.5,Bullish,Yes,286.52
 5,2026-05-08,ADBE,Adobe Inc.,6.0,56.6,Bullish,Yes,256.51
+1,2026-05-09,LLY,Eli Lilly and Company,7.0,52.4,Bullish,Yes,948.45
+2,2026-05-09,ADBE,Adobe Inc.,6.5,53.7,Bullish,Yes,253.04
+3,2026-05-09,AMAT,"Applied Materials, Inc.",6.5,64.6,Bullish,Yes,435.44
+4,2026-05-09,AMD,"Advanced Micro Devices, Inc.",5.5,80.8,Bullish,Yes,455.19
+5,2026-05-09,LRCX,Lam Research Corporation,5.5,65.9,Bullish,Yes,294.05
