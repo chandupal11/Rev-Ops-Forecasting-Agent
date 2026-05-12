@@ -99,3 +99,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-12,LLY,Eli Lilly and Company,6.0,55.8,Bullish,Yes,966.99
 4,2026-05-12,AMAT,"Applied Materials, Inc.",5.5,66.5,Bullish,Yes,443.62
 5,2026-05-12,NVDA,NVIDIA Corporation,5.5,68.5,Bullish,Yes,219.44
+1,2026-05-12,AMAT,"Applied Materials, Inc.",6.5,61.1,Bullish,Yes,431.2
+2,2026-05-12,BRK-B,Berkshire Hathaway Inc. New,6.0,60.9,Bullish,Yes,484.96
+3,2026-05-12,FTNT,"Fortinet, Inc.",6.0,81.4,Bullish,Yes,113.87
+4,2026-05-12,LRCX,Lam Research Corporation,6.0,62.3,Bullish,Yes,289.24
+5,2026-05-12,LLY,Eli Lilly and Company,6.0,59.6,Bullish,Yes,989.87
