@@ -94,3 +94,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-09,AMAT,"Applied Materials, Inc.",6.5,64.6,Bullish,Yes,435.44
 4,2026-05-09,AMD,"Advanced Micro Devices, Inc.",5.5,80.8,Bullish,Yes,455.19
 5,2026-05-09,LRCX,Lam Research Corporation,5.5,65.9,Bullish,Yes,294.05
+1,2026-05-12,QCOM,QUALCOMM Incorporated,6.0,88.4,Bullish,Yes,237.53
+2,2026-05-12,FTNT,"Fortinet, Inc.",6.0,85.0,Bullish,Yes,115.44
+3,2026-05-12,LLY,Eli Lilly and Company,6.0,55.8,Bullish,Yes,966.99
+4,2026-05-12,AMAT,"Applied Materials, Inc.",5.5,66.5,Bullish,Yes,443.62
+5,2026-05-12,NVDA,NVIDIA Corporation,5.5,68.5,Bullish,Yes,219.44
