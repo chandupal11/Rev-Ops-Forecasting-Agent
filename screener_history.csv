@@ -104,3 +104,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-12,FTNT,"Fortinet, Inc.",6.0,81.4,Bullish,Yes,113.87
 4,2026-05-12,LRCX,Lam Research Corporation,6.0,62.3,Bullish,Yes,289.24
 5,2026-05-12,LLY,Eli Lilly and Company,6.0,59.6,Bullish,Yes,989.87
+1,2026-05-13,BRK-B,Berkshire Hathaway Inc. New,6.5,61.4,Bullish,Yes,485.52
+2,2026-05-13,AMAT,"Applied Materials, Inc.",6.0,62.5,Bullish,Yes,436.61
+3,2026-05-13,CDNS,"Cadence Design Systems, Inc.",6.0,64.9,Bullish,Yes,354.55
+4,2026-05-13,LRCX,Lam Research Corporation,6.0,64.5,Bullish,Yes,295.44
+5,2026-05-13,LLY,Eli Lilly and Company,6.0,63.5,Bullish,Yes,1015.75
