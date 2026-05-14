@@ -109,3 +109,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-13,CDNS,"Cadence Design Systems, Inc.",6.0,64.9,Bullish,Yes,354.55
 4,2026-05-13,LRCX,Lam Research Corporation,6.0,64.5,Bullish,Yes,295.44
 5,2026-05-13,LLY,Eli Lilly and Company,6.0,63.5,Bullish,Yes,1015.75
+1,2026-05-14,QCOM,QUALCOMM Incorporated,6.5,61.9,Bullish,Yes,200.08
+2,2026-05-14,BRK-B,Berkshire Hathaway Inc. New,6.5,59.2,Bullish,Yes,484.06
+3,2026-05-14,CDNS,"Cadence Design Systems, Inc.",6.0,63.5,Bullish,Yes,352.84
+4,2026-05-14,AMAT,"Applied Materials, Inc.",6.0,63.6,Bullish,Yes,440.56
+5,2026-05-14,JNJ,Johnson & Johnson,6.0,52.6,Bullish,No,230.8
