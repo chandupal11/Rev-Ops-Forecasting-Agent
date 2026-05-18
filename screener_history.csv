@@ -119,3 +119,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-15,TSLA,"Tesla, Inc.",6.0,58.0,Bullish,Yes,422.24
 4,2026-05-15,QCOM,QUALCOMM Incorporated,6.0,62.3,Bullish,Yes,201.49
 5,2026-05-15,NVDA,NVIDIA Corporation,6.0,64.7,Bullish,Yes,225.32
+1,2026-05-18,ABBV,AbbVie Inc.,7.0,54.2,Bullish,Yes,209.41
+2,2026-05-18,BRK-B,Berkshire Hathaway Inc. New,6.5,62.9,Bullish,Yes,488.38
+3,2026-05-18,CVX,Chevron Corporation,6.5,60.6,Bullish,Yes,196.12
+4,2026-05-18,QCOM,QUALCOMM Incorporated,6.0,63.1,Bullish,Yes,203.64
+5,2026-05-18,NVDA,NVIDIA Corporation,6.0,61.7,Bullish,Yes,222.32
