@@ -134,3 +134,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-20,ABBV,AbbVie Inc.,6.5,57.4,Bullish,Yes,212.3
 4,2026-05-20,LLY,Eli Lilly and Company,6.0,61.9,Bullish,Yes,1018.87
 5,2026-05-20,NVDA,NVIDIA Corporation,6.0,61.9,Bullish,Yes,223.47
+1,2026-05-21,XOM,Exxon Mobil Corporation,7.0,53.3,Bullish,Yes,155.29
+2,2026-05-21,ABBV,AbbVie Inc.,6.5,60.3,Bullish,Yes,214.5
+3,2026-05-21,BRK-B,Berkshire Hathaway Inc. New,6.0,51.6,Bullish,Yes,479.98
+4,2026-05-21,V,Visa Inc.,6.0,61.1,Bullish,Yes,331.12
+5,2026-05-21,MRK,"Merck & Company, Inc.",6.0,55.8,Bullish,Yes,115.88
