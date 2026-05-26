@@ -149,3 +149,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-25,MRVL,"Marvell Technology, Inc.",5.5,71.2,Bullish,Yes,196.33
 4,2026-05-25,QCOM,QUALCOMM Incorporated,5.5,71.8,Bullish,Yes,238.16
 5,2026-05-25,JNJ,Johnson & Johnson,5.5,58.3,Bullish,Yes,234.34
+1,2026-05-26,BAC,Bank of America Corporation,6.5,55.4,Bullish,Yes,52.2
+2,2026-05-26,MRK,"Merck & Company, Inc.",6.5,60.5,Bullish,Yes,119.72
+3,2026-05-26,HON,Honeywell International Inc.,6.0,66.4,Bullish,Yes,231.72
+4,2026-05-26,QCOM,QUALCOMM Incorporated,5.5,74.1,Bullish,Yes,248.82
+5,2026-05-26,LRCX,Lam Research Corporation,5.5,68.8,Bullish,Yes,322.68
