@@ -154,3 +154,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-26,HON,Honeywell International Inc.,6.0,66.4,Bullish,Yes,231.72
 4,2026-05-26,QCOM,QUALCOMM Incorporated,5.5,74.1,Bullish,Yes,248.82
 5,2026-05-26,LRCX,Lam Research Corporation,5.5,68.8,Bullish,Yes,322.68
+1,2026-05-27,META,"Meta Platforms, Inc.",7.0,56.9,Bullish,Yes,635.26
+2,2026-05-27,MRK,"Merck & Company, Inc.",6.5,61.3,Bullish,Yes,120.24
+3,2026-05-27,PG,Procter & Gamble Company (The),6.5,57.4,Bullish,Yes,147.49
+4,2026-05-27,TSLA,"Tesla, Inc.",6.5,63.0,Bullish,Yes,440.36
+5,2026-05-27,AMAT,"Applied Materials, Inc.",6.0,61.5,Bullish,Yes,448.25
