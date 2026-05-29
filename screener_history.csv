@@ -164,3 +164,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-28,TSLA,"Tesla, Inc.",6.5,63.6,Bullish,Yes,442.1
 4,2026-05-28,MRK,"Merck & Company, Inc.",6.5,60.4,Bullish,Yes,119.89
 5,2026-05-28,AMAT,"Applied Materials, Inc.",6.0,61.9,Bullish,Yes,449.68
+1,2026-05-29,META,"Meta Platforms, Inc.",7.0,55.4,Bullish,Yes,632.51
+2,2026-05-29,MRK,"Merck & Company, Inc.",6.5,57.2,Bullish,Yes,118.72
+3,2026-05-29,TSLA,"Tesla, Inc.",6.5,60.0,Bullish,Yes,435.79
+4,2026-05-29,HON,Honeywell International Inc.,6.0,71.7,Bullish,Yes,237.86
+5,2026-05-29,ABBV,AbbVie Inc.,6.0,62.0,Bullish,Yes,217.72
