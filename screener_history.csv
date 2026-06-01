@@ -169,3 +169,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-05-29,TSLA,"Tesla, Inc.",6.5,60.0,Bullish,Yes,435.79
 4,2026-05-29,HON,Honeywell International Inc.,6.0,71.7,Bullish,Yes,237.86
 5,2026-05-29,ABBV,AbbVie Inc.,6.0,62.0,Bullish,Yes,217.72
+1,2026-06-01,MSFT,Microsoft Corporation,6.0,73.3,Bullish,Yes,460.52
+2,2026-06-01,MRVL,"Marvell Technology, Inc.",6.0,74.2,Bullish,Yes,219.43
+3,2026-06-01,ADBE,Adobe Inc.,6.0,65.9,Bullish,Yes,274.03
+4,2026-06-01,QCOM,QUALCOMM Incorporated,6.0,59.4,Bullish,Yes,228.99
+5,2026-06-01,AVGO,Broadcom Inc.,6.0,69.8,Bullish,Yes,459.97
