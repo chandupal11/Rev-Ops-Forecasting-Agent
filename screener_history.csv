@@ -179,3 +179,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-02,MRVL,"Marvell Technology, Inc.",6.0,85.9,Bullish,Yes,290.79
 4,2026-06-02,AVGO,Broadcom Inc.,6.0,74.8,Bullish,Yes,481.57
 5,2026-06-02,QCOM,QUALCOMM Incorporated,6.0,62.7,Bullish,Yes,240.84
+1,2026-06-03,ADBE,Adobe Inc.,7.5,53.6,Bullish,Yes,256.24
+2,2026-06-03,META,"Meta Platforms, Inc.",7.0,51.5,Bullish,Yes,622.98
+3,2026-06-03,MSFT,Microsoft Corporation,6.5,52.8,Bullish,Yes,427.34
+4,2026-06-03,HON,Honeywell International Inc.,6.5,48.6,Bullish,Yes,223.26
+5,2026-06-03,MRVL,"Marvell Technology, Inc.",6.0,86.9,Bullish,Yes,301.65
