@@ -184,3 +184,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-03,MSFT,Microsoft Corporation,6.5,52.8,Bullish,Yes,427.34
 4,2026-06-03,HON,Honeywell International Inc.,6.5,48.6,Bullish,Yes,223.26
 5,2026-06-03,MRVL,"Marvell Technology, Inc.",6.0,86.9,Bullish,Yes,301.65
+1,2026-06-04,ADBE,Adobe Inc.,7.5,54.7,Bullish,Yes,258.42
+2,2026-06-04,AVGO,Broadcom Inc.,7.0,48.1,Bullish,Yes,418.91
+3,2026-06-04,MSFT,Microsoft Corporation,6.5,53.1,Bullish,Yes,428.05
+4,2026-06-04,META,"Meta Platforms, Inc.",6.0,53.1,Bullish,Yes,627.57
+5,2026-06-04,MRVL,"Marvell Technology, Inc.",6.0,88.1,Bullish,Yes,316.43
