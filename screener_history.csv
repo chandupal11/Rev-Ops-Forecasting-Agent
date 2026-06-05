@@ -189,3 +189,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-04,MSFT,Microsoft Corporation,6.5,53.1,Bullish,Yes,428.05
 4,2026-06-04,META,"Meta Platforms, Inc.",6.0,53.1,Bullish,Yes,627.57
 5,2026-06-04,MRVL,"Marvell Technology, Inc.",6.0,88.1,Bullish,Yes,316.43
+1,2026-06-05,JPM,JP Morgan Chase & Co.,7.0,59.7,Bullish,Yes,312.37
+2,2026-06-05,CDNS,"Cadence Design Systems, Inc.",7.0,53.9,Bullish,Yes,376.19
+3,2026-06-05,ADBE,Adobe Inc.,6.5,50.3,Bullish,Yes,251.44
+4,2026-06-05,AMAT,"Applied Materials, Inc.",6.5,54.0,Bullish,Yes,453.01
+5,2026-06-05,MRVL,"Marvell Technology, Inc.",6.0,65.0,Bullish,Yes,263.47
