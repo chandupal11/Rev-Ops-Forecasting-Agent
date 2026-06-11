@@ -209,3 +209,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-10,JPM,JP Morgan Chase & Co.,7.0,54.9,Bullish,Yes,309.14
 4,2026-06-10,JNJ,Johnson & Johnson,6.5,64.6,Bullish,Yes,238.49
 5,2026-06-10,PG,Procter & Gamble Company (The),6.5,59.7,Bullish,Yes,149.05
+1,2026-06-11,PG,Procter & Gamble Company (The),6.5,57.9,Bullish,Yes,148.34
+2,2026-06-11,JNJ,Johnson & Johnson,6.5,64.3,Bullish,Yes,238.33
+3,2026-06-11,JPM,JP Morgan Chase & Co.,6.5,59.1,Bullish,Yes,313.49
+4,2026-06-11,HD,"Home Depot, Inc. (The)",6.5,60.1,Bullish,Yes,326.01
+5,2026-06-11,MRVL,"Marvell Technology, Inc.",6.5,63.3,Bullish,Yes,280.71
