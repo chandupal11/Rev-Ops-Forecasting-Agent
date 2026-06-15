@@ -219,3 +219,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-12,PG,Procter & Gamble Company (The),6.5,60.2,Bullish,Yes,149.61
 4,2026-06-12,LRCX,Lam Research Corporation,6.0,68.5,Bullish,Yes,366.81
 5,2026-06-12,LLY,Eli Lilly and Company,6.0,62.8,Bullish,Yes,1133.0
+1,2026-06-15,HD,"Home Depot, Inc. (The)",6.5,62.8,Bullish,Yes,329.82
+2,2026-06-15,JNJ,Johnson & Johnson,6.0,56.9,Bullish,Yes,235.66
+3,2026-06-15,JPM,JP Morgan Chase & Co.,6.0,63.2,Bullish,Yes,319.4
+4,2026-06-15,BRK-B,Berkshire Hathaway Inc. New,6.0,64.9,Bullish,Yes,495.52
+5,2026-06-15,LRCX,Lam Research Corporation,6.0,72.7,Bullish,Yes,388.92
