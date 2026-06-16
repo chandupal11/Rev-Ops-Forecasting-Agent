@@ -224,3 +224,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-15,JPM,JP Morgan Chase & Co.,6.0,63.2,Bullish,Yes,319.4
 4,2026-06-15,BRK-B,Berkshire Hathaway Inc. New,6.0,64.9,Bullish,Yes,495.52
 5,2026-06-15,LRCX,Lam Research Corporation,6.0,72.7,Bullish,Yes,388.92
+1,2026-06-16,HON,Honeywell International Inc.,7.0,57.0,Bullish,Yes,229.49
+2,2026-06-16,KLAC,KLA Corporation,6.5,63.7,Bullish,Yes,237.33
+3,2026-06-16,LRCX,Lam Research Corporation,6.5,64.6,Bullish,Yes,369.34
+4,2026-06-16,BRK-B,Berkshire Hathaway Inc. New,6.0,64.1,Bullish,Yes,494.95
+5,2026-06-16,PG,Procter & Gamble Company (The),6.0,64.9,Bullish,Yes,152.49
