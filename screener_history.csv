@@ -234,3 +234,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-17,PG,Procter & Gamble Company (The),6.0,59.7,Bullish,Yes,150.56
 4,2026-06-17,BRK-B,Berkshire Hathaway Inc. New,6.0,59.0,Bullish,Yes,491.28
 5,2026-06-17,AMAT,"Applied Materials, Inc.",5.5,73.4,Bullish,Yes,592.92
+1,2026-06-18,HON,Honeywell International Inc.,7.0,56.4,Bullish,Yes,229.01
+2,2026-06-18,MRVL,"Marvell Technology, Inc.",6.5,64.6,Bullish,Yes,310.58
+3,2026-06-18,HD,"Home Depot, Inc. (The)",6.5,61.7,Bullish,Yes,334.28
+4,2026-06-18,JPM,JP Morgan Chase & Co.,6.5,62.0,Bullish,Yes,325.22
+5,2026-06-18,PG,Procter & Gamble Company (The),6.0,59.2,Bullish,Yes,150.38
