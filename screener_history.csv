@@ -244,3 +244,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-19,HD,"Home Depot, Inc. (The)",6.5,61.7,Bullish,Yes,334.28
 4,2026-06-19,JPM,JP Morgan Chase & Co.,6.5,62.0,Bullish,Yes,325.22
 5,2026-06-19,PG,Procter & Gamble Company (The),6.0,59.2,Bullish,Yes,150.38
+1,2026-06-22,PG,Procter & Gamble Company (The),6.5,52.3,Bullish,Yes,147.68
+2,2026-06-22,HON,Honeywell International Inc.,6.5,55.4,Bullish,Yes,228.11
+3,2026-06-22,MRVL,"Marvell Technology, Inc.",6.5,63.8,Bullish,Yes,307.86
+4,2026-06-22,HD,"Home Depot, Inc. (The)",6.0,54.7,Bullish,Yes,326.62
+5,2026-06-22,AAPL,Apple Inc.,5.5,49.9,Bearish,Yes,297.01
