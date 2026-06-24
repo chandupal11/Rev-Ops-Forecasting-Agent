@@ -254,3 +254,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-23,LRCX,Lam Research Corporation,6.5,58.7,Bullish,Yes,371.33
 4,2026-06-23,AMAT,"Applied Materials, Inc.",6.5,63.5,Bullish,Yes,585.88
 5,2026-06-23,TXN,Texas Instruments Incorporated,6.0,51.8,Bullish,Yes,304.36
+1,2026-06-24,KLAC,KLA Corporation,6.5,58.0,Bullish,Yes,240.48
+2,2026-06-24,AMAT,"Applied Materials, Inc.",6.5,63.9,Bullish,Yes,588.97
+3,2026-06-24,HON,Honeywell International Inc.,6.0,54.1,Bullish,Yes,227.42
+4,2026-06-24,HD,"Home Depot, Inc. (The)",6.0,63.9,Bullish,Yes,342.86
+5,2026-06-24,MRK,"Merck & Company, Inc.",5.5,59.4,Bullish,Yes,120.6
