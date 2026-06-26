@@ -264,3 +264,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-25,ABBV,AbbVie Inc.,6.0,71.6,Bullish,Yes,243.14
 4,2026-06-25,HD,"Home Depot, Inc. (The)",6.0,64.9,Bullish,Yes,345.0
 5,2026-06-25,AMAT,"Applied Materials, Inc.",5.5,72.5,Bullish,Yes,668.0
+1,2026-06-26,LRCX,Lam Research Corporation,6.5,57.9,Bullish,Yes,379.09
+2,2026-06-26,AMAT,"Applied Materials, Inc.",6.5,63.9,Bullish,Yes,626.84
+3,2026-06-26,ABBV,AbbVie Inc.,6.0,76.6,Bullish,Yes,253.35
+4,2026-06-26,MU,"Micron Technology, Inc.",6.0,59.0,Bullish,Yes,1132.33
+5,2026-06-26,HON,Honeywell International Inc.,6.0,58.2,Bullish,Yes,232.21
