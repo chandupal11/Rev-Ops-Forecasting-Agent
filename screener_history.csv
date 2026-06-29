@@ -269,3 +269,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-26,ABBV,AbbVie Inc.,6.0,76.6,Bullish,Yes,253.35
 4,2026-06-26,MU,"Micron Technology, Inc.",6.0,59.0,Bullish,Yes,1132.33
 5,2026-06-26,HON,Honeywell International Inc.,6.0,58.2,Bullish,Yes,232.21
+1,2026-06-29,UNH,UnitedHealth Group Incorporated,6.5,64.7,Bullish,Yes,419.82
+2,2026-06-29,ABBV,AbbVie Inc.,6.0,77.0,Bullish,Yes,254.31
+3,2026-06-29,JPM,JP Morgan Chase & Co.,6.0,60.5,Bullish,Yes,329.39
+4,2026-06-29,MA,Mastercard Incorporated,6.0,59.7,Bullish,Yes,509.64
+5,2026-06-29,JNJ,Johnson & Johnson,6.0,74.6,Bullish,Yes,258.51
