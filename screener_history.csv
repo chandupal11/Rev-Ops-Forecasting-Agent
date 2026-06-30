@@ -274,3 +274,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-29,JPM,JP Morgan Chase & Co.,6.0,60.5,Bullish,Yes,329.39
 4,2026-06-29,MA,Mastercard Incorporated,6.0,59.7,Bullish,Yes,509.64
 5,2026-06-29,JNJ,Johnson & Johnson,6.0,74.6,Bullish,Yes,258.51
+1,2026-06-30,HON,Honeywell International Inc.,7.0,49.2,Bullish,Yes,223.9
+2,2026-06-30,TSLA,"Tesla, Inc.",6.5,56.8,Bullish,Yes,420.6
+3,2026-06-30,MA,Mastercard Incorporated,6.5,61.6,Bullish,Yes,513.6
+4,2026-06-30,UNH,UnitedHealth Group Incorporated,6.5,61.2,Bullish,Yes,415.63
+5,2026-06-30,AMZN,"Amazon.com, Inc.",6.0,44.9,Bearish,No,238.34
