@@ -279,3 +279,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-06-30,MA,Mastercard Incorporated,6.5,61.6,Bullish,Yes,513.6
 4,2026-06-30,UNH,UnitedHealth Group Incorporated,6.5,61.2,Bullish,Yes,415.63
 5,2026-06-30,AMZN,"Amazon.com, Inc.",6.0,44.9,Bearish,No,238.34
+1,2026-07-01,AMZN,"Amazon.com, Inc.",7.0,47.8,Bullish,No,241.7
+2,2026-07-01,META,"Meta Platforms, Inc.",7.0,58.5,Bullish,Yes,612.91
+3,2026-07-01,TSLA,"Tesla, Inc.",7.0,58.2,Bullish,Yes,425.3
+4,2026-07-01,LLY,Eli Lilly and Company,6.5,64.6,Bullish,Yes,1191.74
+5,2026-07-01,LRCX,Lam Research Corporation,6.5,56.4,Bullish,Yes,391.26
