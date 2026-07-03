@@ -289,3 +289,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-02,HON,Honeywell International Inc.,7.0,54.9,Bullish,Yes,229.86
 4,2026-07-02,MSFT,Microsoft Corporation,6.5,49.8,Bullish,No,390.49
 5,2026-07-02,META,"Meta Platforms, Inc.",6.0,49.7,Bullish,No,582.9
+1,2026-07-03,AAPL,Apple Inc.,7.5,60.3,Bullish,Yes,308.63
+2,2026-07-03,AMZN,"Amazon.com, Inc.",7.0,48.7,Bullish,No,242.67
+3,2026-07-03,HON,Honeywell International Inc.,7.0,54.9,Bullish,Yes,229.86
+4,2026-07-03,MSFT,Microsoft Corporation,6.5,49.8,Bullish,No,390.49
+5,2026-07-03,META,"Meta Platforms, Inc.",6.0,49.7,Bullish,No,582.9
