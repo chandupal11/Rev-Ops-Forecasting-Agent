@@ -299,3 +299,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-06,TSLA,"Tesla, Inc.",6.0,54.7,Bullish,Yes,419.77
 4,2026-07-06,HD,"Home Depot, Inc. (The)",6.0,62.8,Bullish,Yes,350.65
 5,2026-07-06,MRK,"Merck & Company, Inc.",6.0,60.4,Bullish,Yes,126.78
+1,2026-07-07,AAPL,Apple Inc.,7.0,60.7,Bullish,Yes,310.66
+2,2026-07-07,META,"Meta Platforms, Inc.",7.0,57.5,Bullish,Yes,615.58
+3,2026-07-07,PG,Procter & Gamble Company (The),6.0,59.0,Bullish,Yes,152.75
+4,2026-07-07,MRK,"Merck & Company, Inc.",6.0,63.2,Bullish,Yes,128.86
+5,2026-07-07,V,Visa Inc.,6.0,64.8,Bullish,Yes,352.2
