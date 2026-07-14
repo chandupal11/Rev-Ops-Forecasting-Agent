@@ -324,3 +324,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-13,AAPL,Apple Inc.,6.0,64.2,Bullish,Yes,317.31
 4,2026-07-13,AMZN,"Amazon.com, Inc.",5.5,52.9,Bullish,No,247.31
 5,2026-07-13,NVDA,NVIDIA Corporation,5.0,49.9,Bullish,No,203.53
+1,2026-07-14,NVDA,NVIDIA Corporation,6.5,56.4,Bullish,Yes,211.8
+2,2026-07-14,META,"Meta Platforms, Inc.",6.5,63.5,Bullish,Yes,661.04
+3,2026-07-14,AAPL,Apple Inc.,6.0,61.5,Bullish,Yes,314.86
+4,2026-07-14,AMZN,"Amazon.com, Inc.",5.5,53.1,Bullish,No,247.49
+5,2026-07-14,WMT,Walmart Inc.,5.5,44.0,Bullish,No,113.7
