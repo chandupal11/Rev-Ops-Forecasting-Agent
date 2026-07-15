@@ -329,3 +329,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-14,AAPL,Apple Inc.,6.0,61.5,Bullish,Yes,314.86
 4,2026-07-14,AMZN,"Amazon.com, Inc.",5.5,53.1,Bullish,No,247.49
 5,2026-07-14,WMT,Walmart Inc.,5.5,44.0,Bullish,No,113.7
+1,2026-07-15,NVDA,NVIDIA Corporation,6.5,56.9,Bullish,Yes,212.5
+2,2026-07-15,AMZN,"Amazon.com, Inc.",6.5,60.1,Bullish,Yes,254.96
+3,2026-07-15,MA,Mastercard Incorporated,6.0,63.6,Bullish,Yes,535.21
+4,2026-07-15,XOM,ExxonMobil Holdings Corporation,5.5,54.7,Bullish,No,144.51
+5,2026-07-15,JPM,JP Morgan Chase & Co.,5.5,68.0,Bullish,Yes,346.91
