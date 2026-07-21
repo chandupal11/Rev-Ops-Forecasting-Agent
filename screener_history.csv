@@ -349,3 +349,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-20,AAPL,Apple Inc.,6.0,63.9,Bullish,Yes,326.59
 4,2026-07-20,BAC,Bank of America Corporation,6.0,63.4,Bullish,Yes,60.42
 5,2026-07-20,V,Visa Inc.,6.0,63.6,Bullish,Yes,360.57
+1,2026-07-21,AAPL,Apple Inc.,6.0,64.5,Bullish,Yes,327.74
+2,2026-07-21,V,Visa Inc.,6.0,58.6,Bullish,Yes,355.82
+3,2026-07-21,MA,Mastercard Incorporated,6.0,59.4,Bullish,Yes,538.3
+4,2026-07-21,META,"Meta Platforms, Inc.",5.5,56.2,Bullish,Yes,643.81
+5,2026-07-21,XOM,ExxonMobil Holdings Corporation,5.5,66.0,Bullish,Yes,151.71
