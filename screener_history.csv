@@ -354,3 +354,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-21,MA,Mastercard Incorporated,6.0,59.4,Bullish,Yes,538.3
 4,2026-07-21,META,"Meta Platforms, Inc.",5.5,56.2,Bullish,Yes,643.81
 5,2026-07-21,XOM,ExxonMobil Holdings Corporation,5.5,66.0,Bullish,Yes,151.71
+1,2026-07-22,HON,Honeywell International Inc.,6.5,54.7,Bullish,Yes,232.99
+2,2026-07-22,MA,Mastercard Incorporated,6.0,55.5,Bullish,Yes,531.98
+3,2026-07-22,AAPL,Apple Inc.,6.0,62.5,Bullish,Yes,325.89
+4,2026-07-22,CVX,Chevron Corporation,5.5,69.7,Bullish,Yes,192.98
+5,2026-07-22,XOM,ExxonMobil Holdings Corporation,5.5,69.4,Bullish,Yes,154.45
