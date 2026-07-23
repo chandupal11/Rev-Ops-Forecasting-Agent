@@ -359,3 +359,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-22,AAPL,Apple Inc.,6.0,62.5,Bullish,Yes,325.89
 4,2026-07-22,CVX,Chevron Corporation,5.5,69.7,Bullish,Yes,192.98
 5,2026-07-22,XOM,ExxonMobil Holdings Corporation,5.5,69.4,Bullish,Yes,154.45
+1,2026-07-23,AAPL,Apple Inc.,6.0,58.1,Bullish,Yes,321.66
+2,2026-07-23,MRK,"Merck & Company, Inc.",6.0,61.4,Bullish,Yes,130.48
+3,2026-07-23,HON,Honeywell International Inc.,6.0,65.2,Bullish,Yes,246.27
+4,2026-07-23,CVX,Chevron Corporation,5.5,71.1,Bullish,Yes,194.42
+5,2026-07-23,XOM,ExxonMobil Holdings Corporation,5.5,72.1,Bullish,Yes,156.89
