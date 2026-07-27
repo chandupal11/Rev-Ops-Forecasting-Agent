@@ -369,3 +369,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-24,XOM,ExxonMobil Holdings Corporation,5.5,72.2,Bullish,Yes,156.94
 4,2026-07-24,UNH,UnitedHealth Group Incorporated,5.5,51.6,Bearish,Yes,420.74
 5,2026-07-24,AAPL,Apple Inc.,5.0,65.2,Bullish,Yes,333.02
+1,2026-07-27,JNJ,Johnson & Johnson,6.5,64.6,Bullish,Yes,265.95
+2,2026-07-27,MRK,"Merck & Company, Inc.",6.5,61.5,Bullish,Yes,130.76
+3,2026-07-27,HON,Honeywell International Inc.,6.5,63.4,Bullish,Yes,245.75
+4,2026-07-27,CVX,Chevron Corporation,6.0,60.8,Bullish,Yes,190.0
+5,2026-07-27,AAPL,Apple Inc.,5.0,67.3,Bullish,Yes,336.91
