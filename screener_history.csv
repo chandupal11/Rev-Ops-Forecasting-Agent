@@ -384,3 +384,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-29,HON,Honeywell International Inc.,6.5,57.3,Bullish,Yes,241.12
 4,2026-07-29,CVX,Chevron Corporation,6.0,61.7,Bullish,Yes,191.86
 5,2026-07-29,MRK,"Merck & Company, Inc.",6.0,59.4,Bullish,Yes,130.36
+1,2026-07-30,ADBE,Adobe Inc.,7.0,58.8,Bullish,Yes,247.9
+2,2026-07-30,BRK-B,Berkshire Hathaway Inc. New,6.5,64.6,Bullish,Yes,509.68
+3,2026-07-30,V,Visa Inc.,6.5,63.5,Bullish,Yes,366.27
+4,2026-07-30,AAPL,Apple Inc.,6.0,61.7,Bullish,Yes,333.43
+5,2026-07-30,HON,Honeywell International Inc.,6.0,58.0,Bullish,Yes,241.91
