@@ -394,3 +394,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-07-31,V,Visa Inc.,6.5,63.3,Bullish,Yes,366.13
 4,2026-07-31,GOOG,Alphabet Inc.,6.0,55.2,Bullish,Yes,356.65
 5,2026-07-31,AMZN,"Amazon.com, Inc.",6.0,67.9,Bullish,Yes,271.58
+1,2026-08-03,AMZN,"Amazon.com, Inc.",7.0,72.2,Bullish,Yes,284.02
+2,2026-08-03,ADBE,Adobe Inc.,7.0,60.2,Bullish,Yes,251.34
+3,2026-08-03,GOOG,Alphabet Inc.,6.5,61.4,Bullish,Yes,372.47
+4,2026-08-03,MSFT,Microsoft Corporation,6.5,78.3,Bullish,Yes,487.65
+5,2026-08-03,GOOGL,Alphabet Inc.,6.5,61.1,Bullish,Yes,373.51
