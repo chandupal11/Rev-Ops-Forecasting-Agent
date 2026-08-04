@@ -399,3 +399,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-03,GOOG,Alphabet Inc.,6.5,61.4,Bullish,Yes,372.47
 4,2026-08-03,MSFT,Microsoft Corporation,6.5,78.3,Bullish,Yes,487.65
 5,2026-08-03,GOOGL,Alphabet Inc.,6.5,61.1,Bullish,Yes,373.51
+1,2026-08-04,AMZN,"Amazon.com, Inc.",7.0,67.0,Bullish,Yes,277.42
+2,2026-08-04,NVDA,NVIDIA Corporation,7.0,56.9,Bullish,Yes,211.94
+3,2026-08-04,GOOG,Alphabet Inc.,7.0,62.5,Bullish,Yes,375.35
+4,2026-08-04,GOOGL,Alphabet Inc.,7.0,62.6,Bullish,Yes,377.65
+5,2026-08-04,MSFT,Microsoft Corporation,6.5,79.0,Bullish,Yes,492.81
