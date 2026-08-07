@@ -414,3 +414,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-07,AMZN,"Amazon.com, Inc.",7.0,63.2,Bullish,Yes,272.26
 4,2026-08-07,GOOG,Alphabet Inc.,7.0,52.6,Bullish,Yes,356.62
 5,2026-08-07,GOOGL,Alphabet Inc.,7.0,52.4,Bullish,Yes,357.75
+1,2026-08-07,AMZN,"Amazon.com, Inc.",6.5,64.2,Bullish,Yes,274.48
+2,2026-08-07,NVDA,NVIDIA Corporation,6.5,64.4,Bullish,Yes,223.96
+3,2026-08-07,PANW,"Palo Alto Networks, Inc.",6.5,64.3,Bullish,Yes,363.86
+4,2026-08-07,AVGO,Broadcom Inc.,6.5,64.9,Bullish,Yes,427.76
+5,2026-08-07,MA,Mastercard Incorporated,6.0,59.4,Bullish,Yes,562.95
