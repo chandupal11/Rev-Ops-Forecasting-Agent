@@ -409,3 +409,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-05,GOOG,Alphabet Inc.,7.0,54.3,Bullish,Yes,360.13
 4,2026-08-05,NVDA,NVIDIA Corporation,7.0,61.6,Bullish,Yes,219.22
 5,2026-08-05,FTNT,"Fortinet, Inc.",7.0,59.7,Bullish,Yes,164.13
+1,2026-08-07,NVDA,NVIDIA Corporation,7.0,61.4,Bullish,Yes,218.99
+2,2026-08-07,FTNT,"Fortinet, Inc.",7.0,54.4,Bullish,Yes,160.11
+3,2026-08-07,AMZN,"Amazon.com, Inc.",7.0,63.2,Bullish,Yes,272.26
+4,2026-08-07,GOOG,Alphabet Inc.,7.0,52.6,Bullish,Yes,356.62
+5,2026-08-07,GOOGL,Alphabet Inc.,7.0,52.4,Bullish,Yes,357.75
