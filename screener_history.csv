@@ -419,3 +419,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-07,PANW,"Palo Alto Networks, Inc.",6.5,64.3,Bullish,Yes,363.86
 4,2026-08-07,AVGO,Broadcom Inc.,6.5,64.9,Bullish,Yes,427.76
 5,2026-08-07,MA,Mastercard Incorporated,6.0,59.4,Bullish,Yes,562.95
+1,2026-08-10,GOOGL,Alphabet Inc.,7.0,52.2,Bullish,Yes,357.52
+2,2026-08-10,NVDA,NVIDIA Corporation,6.5,58.1,Bullish,Yes,217.55
+3,2026-08-10,AVGO,Broadcom Inc.,6.5,61.8,Bullish,Yes,422.4
+4,2026-08-10,NFLX,"Netflix, Inc.",6.5,58.9,Bullish,Yes,76.29
+5,2026-08-10,HON,Honeywell International Inc.,6.5,54.5,Bullish,Yes,242.93
