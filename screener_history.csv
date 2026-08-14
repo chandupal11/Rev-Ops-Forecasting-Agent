@@ -439,3 +439,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-13,NVDA,NVIDIA Corporation,6.0,63.2,Bullish,Yes,225.3
 4,2026-08-13,WMT,Walmart Inc.,6.0,58.2,Bullish,Yes,115.72
 5,2026-08-13,TXN,Texas Instruments Incorporated,5.75,43.3,Bullish,No,273.43
+1,2026-08-14,AMD,"Advanced Micro Devices, Inc.",6.5,53.7,Bullish,Yes,514.39
+2,2026-08-14,LLY,Eli Lilly and Company,6.5,50.1,Bullish,Yes,1180.16
+3,2026-08-14,WMT,Walmart Inc.,6.5,56.5,Bullish,Yes,115.27
+4,2026-08-14,NFLX,"Netflix, Inc.",6.5,61.8,Bullish,Yes,78.16
+5,2026-08-14,NVDA,NVIDIA Corporation,6.0,63.0,Bullish,Yes,225.16
