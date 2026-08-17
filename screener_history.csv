@@ -444,3 +444,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-14,WMT,Walmart Inc.,6.5,56.5,Bullish,Yes,115.27
 4,2026-08-14,NFLX,"Netflix, Inc.",6.5,61.8,Bullish,Yes,78.16
 5,2026-08-14,NVDA,NVIDIA Corporation,6.0,63.0,Bullish,Yes,225.16
+1,2026-08-17,MSFT,Microsoft Corporation,6.0,62.2,Bullish,Yes,480.35
+2,2026-08-17,COST,Costco Wholesale Corporation,6.0,51.8,Bullish,Yes,953.5
+3,2026-08-17,PANW,"Palo Alto Networks, Inc.",6.0,60.7,Bullish,Yes,375.76
+4,2026-08-17,LRCX,Lam Research Corporation,6.0,57.8,Bullish,Yes,343.84
+5,2026-08-17,NFLX,"Netflix, Inc.",6.0,54.4,Bullish,Yes,76.02
