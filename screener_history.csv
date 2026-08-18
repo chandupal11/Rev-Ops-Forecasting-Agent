@@ -449,3 +449,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-17,PANW,"Palo Alto Networks, Inc.",6.0,60.7,Bullish,Yes,375.76
 4,2026-08-17,LRCX,Lam Research Corporation,6.0,57.8,Bullish,Yes,343.84
 5,2026-08-17,NFLX,"Netflix, Inc.",6.0,54.4,Bullish,Yes,76.02
+1,2026-08-18,WMT,Walmart Inc.,6.5,55.7,Bullish,Yes,115.2
+2,2026-08-18,PANW,"Palo Alto Networks, Inc.",6.0,59.8,Bullish,Yes,374.14
+3,2026-08-18,TXN,Texas Instruments Incorporated,5.75,43.5,Bullish,No,272.24
+4,2026-08-18,AMD,"Advanced Micro Devices, Inc.",5.5,47.5,Bullish,No,484.39
+5,2026-08-18,MRVL,"Marvell Technology, Inc.",5.5,50.3,Bullish,No,216.0
