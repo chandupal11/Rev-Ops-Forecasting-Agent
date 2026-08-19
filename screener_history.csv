@@ -454,3 +454,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-18,TXN,Texas Instruments Incorporated,5.75,43.5,Bullish,No,272.24
 4,2026-08-18,AMD,"Advanced Micro Devices, Inc.",5.5,47.5,Bullish,No,484.39
 5,2026-08-18,MRVL,"Marvell Technology, Inc.",5.5,50.3,Bullish,No,216.0
+1,2026-08-19,NFLX,"Netflix, Inc.",6.5,63.9,Bullish,Yes,80.22
+2,2026-08-19,MRVL,"Marvell Technology, Inc.",6.5,57.5,Bullish,Yes,237.27
+3,2026-08-19,WMT,Walmart Inc.,6.0,52.4,Bullish,Yes,114.3
+4,2026-08-19,AMD,"Advanced Micro Devices, Inc.",5.5,44.2,Bullish,No,466.42
+5,2026-08-19,ABBV,AbbVie Inc.,5.5,67.7,Bullish,Yes,265.97
