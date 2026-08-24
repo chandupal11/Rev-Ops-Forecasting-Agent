@@ -469,3 +469,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-21,ABBV,AbbVie Inc.,6.5,64.3,Bullish,Yes,264.96
 4,2026-08-21,LLY,Eli Lilly and Company,6.0,59.7,Bullish,Yes,1255.4
 5,2026-08-21,MRK,"Merck & Company, Inc.",6.0,77.9,Bullish,Yes,152.55
+1,2026-08-24,ADBE,Adobe Inc.,6.5,62.9,Bullish,Yes,276.27
+2,2026-08-24,ABBV,AbbVie Inc.,6.0,63.7,Bullish,Yes,264.52
+3,2026-08-24,MRK,"Merck & Company, Inc.",6.0,73.7,Bullish,Yes,150.66
+4,2026-08-24,LLY,Eli Lilly and Company,6.0,58.0,Bullish,Yes,1246.93
+5,2026-08-24,JNJ,Johnson & Johnson,6.0,64.3,Bullish,Yes,273.04
