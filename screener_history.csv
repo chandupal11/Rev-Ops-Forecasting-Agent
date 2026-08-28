@@ -484,3 +484,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-27,AAPL,Apple Inc.,6.0,51.5,Bullish,Yes,313.45
 4,2026-08-27,JNJ,Johnson & Johnson,6.0,60.6,Bullish,Yes,270.0
 5,2026-08-27,NFLX,"Netflix, Inc.",5.5,64.3,Bullish,Yes,81.46
+1,2026-08-28,FTNT,"Fortinet, Inc.",7.0,64.7,Bullish,Yes,172.78
+2,2026-08-28,ABBV,AbbVie Inc.,6.5,53.9,Bullish,Yes,258.15
+3,2026-08-28,MRVL,"Marvell Technology, Inc.",6.0,56.3,Bullish,Yes,241.45
+4,2026-08-28,V,Visa Inc.,6.0,64.3,Bullish,Yes,379.66
+5,2026-08-28,AAPL,Apple Inc.,6.0,52.7,Bullish,Yes,314.58
