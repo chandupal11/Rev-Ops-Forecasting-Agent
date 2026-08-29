@@ -489,3 +489,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-28,MRVL,"Marvell Technology, Inc.",6.0,56.3,Bullish,Yes,241.45
 4,2026-08-28,V,Visa Inc.,6.0,64.3,Bullish,Yes,379.66
 5,2026-08-28,AAPL,Apple Inc.,6.0,52.7,Bullish,Yes,314.58
+1,2026-08-29,FTNT,"Fortinet, Inc.",7.0,57.2,Bullish,Yes,166.0
+2,2026-08-29,MRK,"Merck & Company, Inc.",6.0,62.6,Bullish,Yes,148.35
+3,2026-08-29,AAPL,Apple Inc.,5.5,57.5,Bullish,Yes,319.7
+4,2026-08-29,NFLX,"Netflix, Inc.",5.5,62.6,Bullish,Yes,81.72
+5,2026-08-29,CDNS,"Cadence Design Systems, Inc.",5.5,54.0,Bullish,No,340.39
