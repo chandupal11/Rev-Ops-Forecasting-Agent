@@ -494,3 +494,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-08-29,AAPL,Apple Inc.,5.5,57.5,Bullish,Yes,319.7
 4,2026-08-29,NFLX,"Netflix, Inc.",5.5,62.6,Bullish,Yes,81.72
 5,2026-08-29,CDNS,"Cadence Design Systems, Inc.",5.5,54.0,Bullish,No,340.39
+1,2026-09-01,FTNT,"Fortinet, Inc.",7.0,60.8,Bullish,Yes,170.93
+2,2026-09-01,TSLA,"Tesla, Inc.",6.5,58.7,Bullish,Yes,367.95
+3,2026-09-01,AAPL,Apple Inc.,6.0,54.2,Bullish,Yes,316.85
+4,2026-09-01,V,Visa Inc.,6.0,62.6,Bullish,Yes,379.37
+5,2026-09-01,ADBE,Adobe Inc.,5.5,69.3,Bullish,Yes,292.79
