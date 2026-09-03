@@ -509,3 +509,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-09-02,ADBE,Adobe Inc.,6.0,58.4,Bullish,Yes,279.79
 4,2026-09-02,PG,Procter & Gamble Company (The),6.0,56.9,Bullish,Yes,147.64
 5,2026-09-02,FTNT,"Fortinet, Inc.",5.5,46.3,Bullish,No,154.54
+1,2026-09-03,TSLA,"Tesla, Inc.",7.0,60.5,Bullish,Yes,376.36
+2,2026-09-03,NVDA,NVIDIA Corporation,6.5,59.2,Bullish,Yes,228.45
+3,2026-09-03,AAPL,Apple Inc.,6.0,63.5,Bullish,Yes,328.21
+4,2026-09-03,PG,Procter & Gamble Company (The),6.0,54.4,Bullish,Yes,146.92
+5,2026-09-03,META,"Meta Platforms, Inc.",6.0,60.7,Bullish,Yes,610.68
