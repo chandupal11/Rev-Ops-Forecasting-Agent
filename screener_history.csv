@@ -524,3 +524,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-09-07,AAPL,Apple Inc.,6.5,54.0,Bullish,Yes,319.97
 4,2026-09-07,JNJ,Johnson & Johnson,6.5,61.2,Bullish,Yes,275.23
 5,2026-09-07,PG,Procter & Gamble Company (The),6.0,52.8,Bullish,Yes,146.44
+1,2026-09-08,TSLA,"Tesla, Inc.",7.0,55.7,Bullish,Yes,368.16
+2,2026-09-08,META,"Meta Platforms, Inc.",6.5,60.9,Bullish,Yes,613.48
+3,2026-09-08,NVDA,NVIDIA Corporation,6.5,56.1,Bullish,Yes,225.73
+4,2026-09-08,QCOM,QUALCOMM Incorporated,6.5,60.1,Bullish,Yes,174.09
+5,2026-09-08,WMT,Walmart Inc.,6.0,43.5,Bullish,No,106.05
