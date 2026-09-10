@@ -534,3 +534,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-09-09,NVDA,NVIDIA Corporation,6.5,54.3,Bullish,Yes,223.67
 4,2026-09-09,TSLA,"Tesla, Inc.",6.0,55.6,Bullish,Yes,367.81
 5,2026-09-09,TXN,Texas Instruments Incorporated,6.0,44.8,Bullish,No,261.59
+1,2026-09-10,TSLA,"Tesla, Inc.",7.5,53.7,Bullish,Yes,363.56
+2,2026-09-10,QCOM,QUALCOMM Incorporated,7.0,62.8,Bullish,Yes,176.88
+3,2026-09-10,MU,"Micron Technology, Inc.",6.5,53.3,Bullish,Yes,977.41
+4,2026-09-10,UNH,UnitedHealth Group Incorporated,6.25,40.8,Bullish,No,388.28
+5,2026-09-10,META,"Meta Platforms, Inc.",6.0,66.4,Bullish,Yes,644.38
