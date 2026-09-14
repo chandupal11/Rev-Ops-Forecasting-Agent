@@ -544,3 +544,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-09-11,AMD,"Advanced Micro Devices, Inc.",6.5,58.0,Bullish,Yes,516.13
 4,2026-09-11,QCOM,QUALCOMM Incorporated,6.0,67.4,Bullish,Yes,181.97
 5,2026-09-11,META,"Meta Platforms, Inc.",6.0,67.2,Bullish,Yes,648.03
+1,2026-09-14,MRVL,"Marvell Technology, Inc.",7.5,48.2,Bullish,Yes,218.82
+2,2026-09-14,QCOM,QUALCOMM Incorporated,7.0,64.3,Bullish,Yes,180.15
+3,2026-09-14,GOOG,Alphabet Inc.,6.5,54.9,Bullish,Yes,345.71
+4,2026-09-14,TSLA,"Tesla, Inc.",6.0,51.5,Bullish,Yes,358.97
+5,2026-09-14,AMD,"Advanced Micro Devices, Inc.",5.5,51.5,Bullish,No,493.41
