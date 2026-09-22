@@ -569,3 +569,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-09-18,GOOG,Alphabet Inc.,6.5,53.6,Bullish,Yes,344.41
 4,2026-09-18,MRVL,"Marvell Technology, Inc.",6.0,58.0,Bullish,Yes,244.25
 5,2026-09-18,QCOM,QUALCOMM Incorporated,6.0,54.4,Bullish,Yes,177.72
+1,2026-09-22,GOOG,Alphabet Inc.,5.0,53.6,Bullish,No,
+2,2026-09-22,FTNT,"Fortinet, Inc.",5.0,58.0,Bullish,No,
+3,2026-09-22,GOOGL,Alphabet Inc.,4.5,55.1,Bullish,No,
+4,2026-09-22,PANW,"Palo Alto Networks, Inc.",4.5,53.1,Bullish,No,
+5,2026-09-22,HON,Honeywell International Inc.,4.5,38.7,Bullish,No,
