@@ -589,3 +589,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-09-24,LLY,Eli Lilly and Company,7.0,55.5,Bullish,Yes,1181.89
 4,2026-09-24,GOOG,Alphabet Inc.,6.0,48.3,Bullish,No,339.01
 5,2026-09-24,AAPL,Apple Inc.,6.0,61.4,Bullish,Yes,335.92
+1,2026-09-25,LLY,Eli Lilly and Company,6.5,55.8,Bullish,Yes,1183.46
+2,2026-09-25,CDNS,"Cadence Design Systems, Inc.",6.5,61.3,Bullish,Yes,326.13
+3,2026-09-25,PANW,"Palo Alto Networks, Inc.",6.5,54.4,Bullish,Yes,374.74
+4,2026-09-25,TXN,Texas Instruments Incorporated,6.0,60.2,Bullish,Yes,278.07
+5,2026-09-25,MU,"Micron Technology, Inc.",6.0,63.2,Bullish,Yes,1082.28
