@@ -604,3 +604,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-09-30,UNH,UnitedHealth Group Incorporated,5.0,42.8,Bullish,No,
 4,2026-09-30,TXN,Texas Instruments Incorporated,4.5,60.3,Bullish,No,
 5,2026-09-30,META,"Meta Platforms, Inc.",4.5,61.0,Bullish,No,
+1,2026-10-01,COST,Costco Wholesale Corporation,5.5,53.2,Bullish,No,
+2,2026-10-01,UNH,UnitedHealth Group Incorporated,5.0,40.3,Bullish,No,
+3,2026-10-01,META,"Meta Platforms, Inc.",4.5,64.6,Bullish,No,
+4,2026-10-01,TXN,Texas Instruments Incorporated,4.5,63.0,Bullish,No,
+5,2026-10-01,MRVL,"Marvell Technology, Inc.",4.5,61.6,Bullish,No,
