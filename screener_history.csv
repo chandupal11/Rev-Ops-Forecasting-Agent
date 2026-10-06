@@ -619,3 +619,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-03,META,"Meta Platforms, Inc.",4.5,61.2,Bullish,No,
 4,2026-10-03,MRVL,"Marvell Technology, Inc.",4.5,63.4,Bullish,No,
 5,2026-10-03,KLAC,KLA Corporation,4.5,63.1,Bullish,No,
+1,2026-10-06,GOOG,Alphabet Inc.,6.5,53.0,Bullish,Yes,343.83
+2,2026-10-06,GOOGL,Alphabet Inc.,6.0,52.4,Bullish,Yes,346.47
+3,2026-10-06,MRVL,"Marvell Technology, Inc.",6.0,64.2,Bullish,Yes,271.25
+4,2026-10-06,PANW,"Palo Alto Networks, Inc.",5.5,63.7,Bullish,Yes,406.76
+5,2026-10-06,AMAT,"Applied Materials, Inc.",5.5,69.7,Bullish,Yes,542.28
