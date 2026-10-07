@@ -624,3 +624,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-06,MRVL,"Marvell Technology, Inc.",6.0,64.2,Bullish,Yes,271.25
 4,2026-10-06,PANW,"Palo Alto Networks, Inc.",5.5,63.7,Bullish,Yes,406.76
 5,2026-10-06,AMAT,"Applied Materials, Inc.",5.5,69.7,Bullish,Yes,542.28
+1,2026-10-07,GOOGL,Alphabet Inc.,6.5,53.4,Bullish,Yes,347.68
+2,2026-10-07,AMAT,"Applied Materials, Inc.",6.5,64.1,Bullish,Yes,530.27
+3,2026-10-07,COST,Costco Wholesale Corporation,6.0,58.3,Bullish,Yes,935.68
+4,2026-10-07,LRCX,Lam Research Corporation,6.0,59.4,Bullish,Yes,333.89
+5,2026-10-07,KLAC,KLA Corporation,6.0,56.7,Bullish,Yes,197.46
