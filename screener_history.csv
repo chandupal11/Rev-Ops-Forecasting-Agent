@@ -629,3 +629,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-07,COST,Costco Wholesale Corporation,6.0,58.3,Bullish,Yes,935.68
 4,2026-10-07,LRCX,Lam Research Corporation,6.0,59.4,Bullish,Yes,333.89
 5,2026-10-07,KLAC,KLA Corporation,6.0,56.7,Bullish,Yes,197.46
+1,2026-10-08,HON,Honeywell International Inc.,5.0,50.1,Bullish,No,
+2,2026-10-08,AMZN,"Amazon.com, Inc.",4.5,54.5,Bullish,No,
+3,2026-10-08,GOOG,Alphabet Inc.,4.5,53.6,Bullish,No,
+4,2026-10-08,TSLA,"Tesla, Inc.",4.5,59.6,Bullish,No,
+5,2026-10-08,LRCX,Lam Research Corporation,4.5,59.4,Bullish,No,
