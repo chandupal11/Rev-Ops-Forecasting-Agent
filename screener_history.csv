@@ -639,3 +639,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-09,NVDA,NVIDIA Corporation,4.5,64.4,Bullish,No,
 4,2026-10-09,TSLA,"Tesla, Inc.",4.5,57.7,Bullish,No,
 5,2026-10-09,AMAT,"Applied Materials, Inc.",4.5,60.0,Bullish,No,
+1,2026-10-10,AMZN,"Amazon.com, Inc.",5.0,50.8,Bullish,No,
+2,2026-10-10,GOOG,Alphabet Inc.,5.0,53.3,Bullish,No,
+3,2026-10-10,V,Visa Inc.,5.0,58.9,Bullish,No,
+4,2026-10-10,MRVL,"Marvell Technology, Inc.",5.0,61.2,Bullish,No,
+5,2026-10-10,MA,Mastercard Incorporated,5.0,56.8,Bullish,No,
