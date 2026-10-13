@@ -644,3 +644,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-10,V,Visa Inc.,5.0,58.9,Bullish,No,
 4,2026-10-10,MRVL,"Marvell Technology, Inc.",5.0,61.2,Bullish,No,
 5,2026-10-10,MA,Mastercard Incorporated,5.0,56.8,Bullish,No,
+1,2026-10-13,BRK-B,Berkshire Hathaway Inc. New,7.0,64.6,Bullish,Yes,517.6
+2,2026-10-13,AMZN,"Amazon.com, Inc.",6.5,55.6,Bullish,Yes,259.53
+3,2026-10-13,GOOG,Alphabet Inc.,6.5,56.9,Bullish,Yes,348.97
+4,2026-10-13,GOOGL,Alphabet Inc.,6.5,57.3,Bullish,Yes,352.72
+5,2026-10-13,WMT,Walmart Inc.,6.5,64.7,Bullish,Yes,113.08
