@@ -649,3 +649,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-13,GOOG,Alphabet Inc.,6.5,56.9,Bullish,Yes,348.97
 4,2026-10-13,GOOGL,Alphabet Inc.,6.5,57.3,Bullish,Yes,352.72
 5,2026-10-13,WMT,Walmart Inc.,6.5,64.7,Bullish,Yes,113.08
+1,2026-10-14,NFLX,"Netflix, Inc.",5.5,44.9,Bullish,No,
+2,2026-10-14,JPM,JP Morgan Chase & Co.,5.0,42.4,Bullish,No,
+3,2026-10-14,BAC,Bank of America Corporation,5.0,34.6,Bullish,No,
+4,2026-10-14,AMZN,"Amazon.com, Inc.",4.5,55.6,Bullish,No,
+5,2026-10-14,CDNS,"Cadence Design Systems, Inc.",4.5,62.5,Bullish,No,
