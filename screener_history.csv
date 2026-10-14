@@ -654,3 +654,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-14,BAC,Bank of America Corporation,5.0,34.6,Bullish,No,
 4,2026-10-14,AMZN,"Amazon.com, Inc.",4.5,55.6,Bullish,No,
 5,2026-10-14,CDNS,"Cadence Design Systems, Inc.",4.5,62.5,Bullish,No,
+1,2026-10-14,GOOG,Alphabet Inc.,6.5,50.7,Bullish,Yes,343.65
+2,2026-10-14,GOOGL,Alphabet Inc.,6.5,51.3,Bullish,Yes,347.64
+3,2026-10-14,LLY,Eli Lilly and Company,6.5,60.4,Bullish,Yes,1208.74
+4,2026-10-14,AAPL,Apple Inc.,6.0,62.1,Bullish,Yes,342.96
+5,2026-10-14,JPM,JP Morgan Chase & Co.,6.0,45.5,Bullish,No,335.28
