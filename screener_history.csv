@@ -659,3 +659,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-14,LLY,Eli Lilly and Company,6.5,60.4,Bullish,Yes,1208.74
 4,2026-10-14,AAPL,Apple Inc.,6.0,62.1,Bullish,Yes,342.96
 5,2026-10-14,JPM,JP Morgan Chase & Co.,6.0,45.5,Bullish,No,335.28
+1,2026-10-15,AAPL,Apple Inc.,6.0,60.6,Bullish,Yes,342.0
+2,2026-10-15,GOOGL,Alphabet Inc.,5.5,52.8,Bullish,Yes,349.22
+3,2026-10-15,GOOG,Alphabet Inc.,5.5,52.0,Bullish,Yes,344.91
+4,2026-10-15,WMT,Walmart Inc.,5.5,71.7,Bullish,Yes,117.87
+5,2026-10-15,BRK-B,Berkshire Hathaway Inc. New,5.5,70.7,Bullish,Yes,525.68
