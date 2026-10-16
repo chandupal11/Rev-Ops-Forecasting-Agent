@@ -664,3 +664,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-15,GOOG,Alphabet Inc.,5.5,52.0,Bullish,Yes,344.91
 4,2026-10-15,WMT,Walmart Inc.,5.5,71.7,Bullish,Yes,117.87
 5,2026-10-15,BRK-B,Berkshire Hathaway Inc. New,5.5,70.7,Bullish,Yes,525.68
+1,2026-10-16,UNH,UnitedHealth Group Incorporated,6.5,63.3,Bullish,Yes,401.43
+2,2026-10-16,AAPL,Apple Inc.,6.0,62.1,Bullish,Yes,343.46
+3,2026-10-16,PG,Procter & Gamble Company (The),5.5,75.2,Bullish,Yes,159.35
+4,2026-10-16,JPM,JP Morgan Chase & Co.,5.5,52.3,Bullish,No,339.72
+5,2026-10-16,ABBV,AbbVie Inc.,5.5,72.3,Bullish,Yes,285.42
