@@ -669,3 +669,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-16,PG,Procter & Gamble Company (The),5.5,75.2,Bullish,Yes,159.35
 4,2026-10-16,JPM,JP Morgan Chase & Co.,5.5,52.3,Bullish,No,339.72
 5,2026-10-16,ABBV,AbbVie Inc.,5.5,72.3,Bullish,Yes,285.42
+1,2026-10-20,JPM,JP Morgan Chase & Co.,5.0,52.3,Bullish,No,
+2,2026-10-20,AAPL,Apple Inc.,4.5,62.1,Bullish,No,
+3,2026-10-20,ADBE,Adobe Inc.,4.5,50.1,Bullish,No,
+4,2026-10-20,HD,"Home Depot, Inc. (The)",4.5,60.3,Bullish,No,
+5,2026-10-20,NFLX,"Netflix, Inc.",4.0,45.5,Bullish,No,
