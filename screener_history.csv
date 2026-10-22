@@ -679,3 +679,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-20,ADBE,Adobe Inc.,6.0,58.2,Bullish,Yes,256.73
 4,2026-10-20,UNH,UnitedHealth Group Incorporated,6.0,71.3,Bullish,Yes,419.26
 5,2026-10-20,V,Visa Inc.,5.5,75.6,Bullish,Yes,406.57
+1,2026-10-22,AMZN,"Amazon.com, Inc.",4.5,57.4,Bullish,No,
+2,2026-10-22,ADBE,Adobe Inc.,4.5,58.2,Bullish,No,
+3,2026-10-22,HD,"Home Depot, Inc. (The)",4.5,64.4,Bullish,No,
+4,2026-10-22,HON,Honeywell International Inc.,4.0,54.5,Bullish,No,
+5,2026-10-22,NFLX,"Netflix, Inc.",4.0,40.5,Bullish,No,
