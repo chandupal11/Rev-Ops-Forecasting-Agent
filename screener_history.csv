@@ -684,3 +684,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-22,HD,"Home Depot, Inc. (The)",4.5,64.4,Bullish,No,
 4,2026-10-22,HON,Honeywell International Inc.,4.0,54.5,Bullish,No,
 5,2026-10-22,NFLX,"Netflix, Inc.",4.0,40.5,Bullish,No,
+1,2026-10-23,PG,Procter & Gamble Company (The),5.0,63.4,Bullish,No,
+2,2026-10-23,HON,Honeywell International Inc.,4.5,57.0,Bullish,No,
+3,2026-10-23,ADBE,Adobe Inc.,4.5,56.7,Bullish,No,
+4,2026-10-23,HD,"Home Depot, Inc. (The)",4.5,63.2,Bullish,No,
+5,2026-10-23,MRK,"Merck & Company, Inc.",4.5,58.1,Bullish,No,
