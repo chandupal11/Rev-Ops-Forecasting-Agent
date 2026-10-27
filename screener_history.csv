@@ -694,3 +694,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-23,HD,"Home Depot, Inc. (The)",6.5,62.6,Bullish,Yes,319.83
 4,2026-10-23,ADBE,Adobe Inc.,6.5,59.8,Bullish,Yes,263.82
 5,2026-10-23,LLY,Eli Lilly and Company,6.0,62.2,Bullish,Yes,1273.46
+1,2026-10-27,AAPL,Apple Inc.,5.0,63.9,Bullish,No,
+2,2026-10-27,HD,"Home Depot, Inc. (The)",4.5,62.6,Bullish,No,
+3,2026-10-27,LLY,Eli Lilly and Company,4.5,62.2,Bullish,No,
+4,2026-10-27,JNJ,Johnson & Johnson,4.5,53.1,Bullish,No,
+5,2026-10-27,JPM,JP Morgan Chase & Co.,4.5,42.0,Bullish,No,
