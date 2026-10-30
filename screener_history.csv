@@ -709,3 +709,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-10-29,XOM,ExxonMobil Holdings Corporation,4.5,64.6,Bullish,No,
 4,2026-10-29,HD,"Home Depot, Inc. (The)",4.5,61.2,Bullish,No,
 5,2026-10-29,LLY,Eli Lilly and Company,4.5,63.5,Bullish,No,
+1,2026-10-30,AVGO,Broadcom Inc.,5.5,52.7,Bullish,No,
+2,2026-10-30,QCOM,QUALCOMM Incorporated,5.0,54.8,Bullish,No,
+3,2026-10-30,PANW,"Palo Alto Networks, Inc.",5.0,55.7,Bullish,No,
+4,2026-10-30,COST,Costco Wholesale Corporation,4.5,57.4,Bullish,No,
+5,2026-10-30,LLY,Eli Lilly and Company,4.5,64.5,Bullish,No,
