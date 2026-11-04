@@ -724,3 +724,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-11-03,JNJ,Johnson & Johnson,6.5,57.0,Bullish,Yes,270.56
 4,2026-11-03,TXN,Texas Instruments Incorporated,6.0,61.7,Bullish,Yes,302.02
 5,2026-11-03,ABBV,AbbVie Inc.,6.0,62.7,Bullish,Yes,288.84
+1,2026-11-04,CVX,Chevron Corporation,4.5,58.7,Bullish,No,
+2,2026-11-04,MRK,"Merck & Company, Inc.",4.5,55.0,Bullish,No,
+3,2026-11-04,ABBV,AbbVie Inc.,4.5,62.7,Bullish,No,
+4,2026-11-04,JNJ,Johnson & Johnson,4.5,57.0,Bullish,No,
+5,2026-11-04,TXN,Texas Instruments Incorporated,4.5,61.7,Bullish,No,
