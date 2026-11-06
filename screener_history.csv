@@ -734,3 +734,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-11-05,TXN,Texas Instruments Incorporated,4.0,67.3,Bullish,No,
 4,2026-11-05,JPM,JP Morgan Chase & Co.,4.0,50.5,Bullish,No,
 5,2026-11-05,JNJ,Johnson & Johnson,4.0,51.7,Bullish,No,
+1,2026-11-06,AMZN,"Amazon.com, Inc.",5.5,59.9,Bullish,No,
+2,2026-11-06,NFLX,"Netflix, Inc.",5.5,47.5,Bullish,No,
+3,2026-11-06,BAC,Bank of America Corporation,4.5,44.8,Bullish,No,
+4,2026-11-06,JNJ,Johnson & Johnson,4.5,60.7,Bullish,No,
+5,2026-11-06,COST,Costco Wholesale Corporation,4.0,69.0,Bullish,No,
