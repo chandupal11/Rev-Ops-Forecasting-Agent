@@ -739,3 +739,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-11-06,BAC,Bank of America Corporation,4.5,44.8,Bullish,No,
 4,2026-11-06,JNJ,Johnson & Johnson,4.5,60.7,Bullish,No,
 5,2026-11-06,COST,Costco Wholesale Corporation,4.0,69.0,Bullish,No,
+1,2026-11-07,V,Visa Inc.,6.5,63.3,Bullish,Yes,422.65
+2,2026-11-07,NFLX,"Netflix, Inc.",6.5,39.7,Bullish,No,63.41
+3,2026-11-07,AMZN,"Amazon.com, Inc.",6.0,54.2,Bullish,Yes,259.3
+4,2026-11-07,MA,Mastercard Incorporated,6.0,64.0,Bullish,Yes,652.7
+5,2026-11-07,COST,Costco Wholesale Corporation,5.5,67.5,Bullish,Yes,1053.56
