@@ -744,3 +744,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-11-07,AMZN,"Amazon.com, Inc.",6.0,54.2,Bullish,Yes,259.3
 4,2026-11-07,MA,Mastercard Incorporated,6.0,64.0,Bullish,Yes,652.7
 5,2026-11-07,COST,Costco Wholesale Corporation,5.5,67.5,Bullish,Yes,1053.56
+1,2026-11-10,V,Visa Inc.,6.5,62.9,Bullish,Yes,422.16
+2,2026-11-10,WMT,Walmart Inc.,6.5,63.8,Bullish,Yes,125.66
+3,2026-11-10,MA,Mastercard Incorporated,6.0,64.9,Bullish,Yes,655.81
+4,2026-11-10,MSFT,Microsoft Corporation,5.5,57.5,Bullish,Yes,545.18
+5,2026-11-10,JPM,JP Morgan Chase & Co.,5.5,52.9,Bullish,Yes,342.08
