@@ -1,41 +1,41 @@
 Symbol,Name,Sector,Price,Score,RSI,MACD_Signal,Fresh_MACD_Cross,Above_50SMA,Above_200SMA,Crossed_50SMA_Recently,ADX,From_52W_High_%,From_52W_Low_%,Sub_RSI,Sub_MACD,Sub_MA,Sub_BB,Sub_Volume,Sub_OBV,Sub_ADX,Market_Cap_B,Avg_Volume_M,Run_Date,Run_Time_UTC
-V,Visa Inc.,Financial Services,,5.0,62.9,Bullish,No,No,No,No,45.9,,,1.0,1.5,0.0,0.0,0.5,1.0,1.0,789.2,6.6,2026-11-11,01:20
-WMT,Walmart Inc.,Consumer Defensive,,4.5,63.8,Bullish,No,No,No,No,57.7,,,1.0,1.5,0.0,0.0,0.0,1.0,1.0,996.1,23.9,2026-11-11,01:20
-NFLX,"Netflix, Inc.",Communication Services,,4.5,41.6,Bullish,No,No,No,No,27.5,,,2.0,1.5,0.0,0.0,0.0,1.0,0.0,259.8,36.8,2026-11-11,01:20
-MA,Mastercard Incorporated,Financial Services,,4.5,64.9,Bullish,No,No,No,No,50.4,,,1.0,1.5,0.0,0.0,0.0,1.0,1.0,574.0,3.0,2026-11-11,01:20
-BAC,Bank of America Corporation,Financial Services,,4.5,42.3,Bullish,No,No,No,No,29.2,,,2.0,1.5,0.0,0.0,0.0,0.0,1.0,349.7,37.6,2026-11-11,01:20
-MSFT,Microsoft Corporation,Technology,,4.0,57.5,Bullish,Yes,No,No,No,21.1,,,1.0,2.0,0.0,0.0,0.5,0.0,0.5,3959.3,23.1,2026-11-11,01:20
-QCOM,QUALCOMM Incorporated,Technology,,4.0,48.5,Bearish,No,No,No,No,20.1,,,1.5,0.0,0.0,0.0,1.0,1.0,0.5,185.7,12.5,2026-11-11,01:20
-HON,Honeywell International Inc.,Industrials,,4.0,62.1,Bullish,No,No,No,No,21.1,,,1.0,1.5,0.0,0.0,0.0,1.0,0.5,72.3,2.9,2026-11-11,01:20
-BRK-B,Berkshire Hathaway Inc. New,Financial Services,,4.0,75.3,Bullish,No,No,No,No,63.0,,,0.0,1.5,0.0,0.0,0.5,1.0,1.0,1239.3,4.6,2026-11-11,01:20
-JPM,JP Morgan Chase & Co.,Financial Services,,4.0,52.9,Bullish,No,No,No,No,24.0,,,1.5,1.5,0.0,0.0,0.5,0.0,0.5,908.4,7.1,2026-11-11,01:20
-HD,"Home Depot, Inc. (The)",Consumer Cyclical,,4.0,68.3,Bullish,No,No,No,No,63.3,,,0.0,1.5,0.0,0.0,0.5,1.0,1.0,350.2,4.7,2026-11-11,01:20
-JNJ,Johnson & Johnson,Healthcare,,3.5,63.6,Bullish,No,No,No,No,35.1,,,1.0,1.5,0.0,0.0,0.0,0.0,1.0,675.9,7.0,2026-11-11,01:20
-COST,Costco Wholesale Corporation,Consumer Defensive,,3.5,69.7,Bullish,No,No,No,No,59.0,,,0.0,1.5,0.0,0.0,0.0,1.0,1.0,472.4,2.2,2026-11-11,01:20
-MRK,"Merck & Company, Inc.",Healthcare,,3.5,54.2,Bullish,No,No,No,No,21.9,,,1.5,1.5,0.0,0.0,0.0,0.0,0.5,365.0,10.4,2026-11-11,01:20
-PG,Procter & Gamble Company (The),Consumer Defensive,,3.5,68.6,Bullish,No,No,No,No,48.7,,,0.0,1.5,0.0,0.0,0.0,1.0,1.0,390.9,9.3,2026-11-11,01:20
-AMD,"Advanced Micro Devices, Inc.",Technology,,3.5,47.7,Bearish,No,No,No,No,34.2,,,1.5,0.0,0.0,0.0,1.0,1.0,0.0,845.0,22.8,2026-11-11,01:20
-ABBV,AbbVie Inc.,Healthcare,,3.0,61.8,Bearish,No,No,No,No,27.3,,,1.0,0.0,0.0,0.0,0.0,1.0,1.0,519.5,4.8,2026-11-11,01:20
-LLY,Eli Lilly and Company,Healthcare,,3.0,67.9,Bullish,No,No,No,No,39.3,,,0.0,1.5,0.0,0.0,0.5,0.0,1.0,1275.8,2.6,2026-11-11,01:20
-AMZN,"Amazon.com, Inc.",Consumer Cyclical,,3.0,59.2,Bullish,No,No,No,No,19.0,,,1.0,1.5,0.0,0.0,0.5,0.0,0.0,2929.0,39.0,2026-11-11,01:20
-AMAT,"Applied Materials, Inc.",Technology,,2.5,41.4,Bearish,No,No,No,No,45.5,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,295.6,7.3,2026-11-11,01:20
-LRCX,Lam Research Corporation,Technology,,2.5,39.3,Bearish,No,No,No,No,50.5,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,277.8,10.0,2026-11-11,01:20
-META,"Meta Platforms, Inc.",Communication Services,,2.5,46.5,Bearish,No,No,No,No,32.4,,,1.5,0.0,0.0,0.0,0.0,1.0,0.0,1639.9,21.2,2026-11-11,01:20
-AVGO,Broadcom Inc.,Technology,,2.5,44.7,Bearish,No,No,No,No,37.9,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,1584.7,24.3,2026-11-11,01:20
-MU,"Micron Technology, Inc.",Technology,,2.5,36.4,Bearish,No,No,No,No,52.8,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,820.4,27.8,2026-11-11,01:20
-XOM,ExxonMobil Holdings Corporation,Energy,,2.5,38.2,Bearish,No,No,No,No,44.9,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,670.9,13.6,2026-11-11,01:20
-KLAC,KLA Corporation,Technology,,2.5,43.8,Bearish,No,No,No,No,35.9,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,199.3,10.9,2026-11-11,01:20
-CDNS,"Cadence Design Systems, Inc.",Technology,,2.5,54.2,Bearish,No,No,No,No,22.4,,,1.5,0.0,0.0,0.0,0.0,1.0,0.0,91.0,2.4,2026-11-11,01:20
-MRVL,"Marvell Technology, Inc.",Technology,,2.5,32.1,Bearish,No,No,No,No,51.0,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,138.9,24.1,2026-11-11,01:20
-GOOGL,Alphabet Inc.,Communication Services,,2.0,32.9,Bearish,No,No,No,No,40.6,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3533.0,29.2,2026-11-11,01:20
-CVX,Chevron Corporation,Energy,,2.0,38.8,Bearish,No,No,No,No,47.4,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,412.1,8.4,2026-11-11,01:20
-ADBE,Adobe Inc.,Technology,,2.0,41.0,Bearish,No,No,No,No,16.9,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,92.1,4.7,2026-11-11,01:20
-GOOG,Alphabet Inc.,Communication Services,,2.0,31.9,Bearish,No,No,No,No,43.4,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3502.8,19.4,2026-11-11,01:20
-PANW,"Palo Alto Networks, Inc.",Technology,,2.0,39.9,Bearish,No,No,No,No,39.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,267.1,6.1,2026-11-11,01:20
-TSLA,"Tesla, Inc.",Consumer Cyclical,,1.5,49.9,Bearish,No,No,No,No,26.9,,,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1501.2,37.9,2026-11-11,01:20
-AAPL,Apple Inc.,Technology,,1.5,57.6,Bearish,No,No,No,No,20.8,,,1.0,0.0,0.0,0.0,0.0,0.0,0.5,5064.6,42.9,2026-11-11,01:20
-NVDA,NVIDIA Corporation,Technology,,1.5,27.4,Bearish,No,No,No,No,60.0,,,0.5,0.0,0.0,0.0,1.0,0.0,0.0,4078.2,122.7,2026-11-11,01:20
-UNH,UnitedHealth Group Incorporated,Healthcare,,1.5,48.9,Bearish,No,No,No,No,21.1,,,1.5,0.0,0.0,0.0,0.0,0.0,0.0,363.0,5.2,2026-11-11,01:20
-TXN,Texas Instruments Incorporated,Technology,,1.5,53.2,Bearish,No,No,No,No,29.7,,,1.5,0.0,0.0,0.0,0.0,0.0,0.0,274.7,6.7,2026-11-11,01:20
-SNPS,"Synopsys, Inc.",Technology,,1.5,53.1,Bearish,No,No,No,No,20.0,,,1.5,0.0,0.0,0.0,0.0,0.0,0.0,88.1,2.1,2026-11-11,01:20
-FTNT,"Fortinet, Inc.",Technology,,0.5,26.8,Bearish,No,No,No,No,64.2,,,0.5,0.0,0.0,0.0,0.0,0.0,0.0,90.8,4.7,2026-11-11,01:20
+V,Visa Inc.,Financial Services,,4.5,63.7,Bullish,No,No,No,No,45.0,,,1.0,1.5,0.0,0.0,0.0,1.0,1.0,794.0,6.6,2026-11-12,02:20
+BAC,Bank of America Corporation,Financial Services,,4.5,43.1,Bullish,No,No,No,No,28.6,,,2.0,1.5,0.0,0.0,0.0,0.0,1.0,349.6,37.6,2026-11-12,02:20
+NFLX,"Netflix, Inc.",Communication Services,,4.5,39.9,Bullish,No,No,No,No,25.6,,,2.0,1.5,0.0,0.0,0.0,1.0,0.0,265.0,36.8,2026-11-12,02:20
+HON,Honeywell International Inc.,Industrials,,4.0,61.1,Bullish,No,No,No,No,22.0,,,1.0,1.5,0.0,0.0,0.0,1.0,0.5,72.1,2.8,2026-11-12,02:20
+JPM,JP Morgan Chase & Co.,Financial Services,,4.0,52.9,Bullish,No,No,No,No,26.0,,,1.5,1.5,0.0,0.0,0.0,0.0,1.0,911.9,7.1,2026-11-12,02:20
+BRK-B,Berkshire Hathaway Inc. New,Financial Services,,4.0,78.0,Bullish,No,No,No,No,63.3,,,0.0,1.5,0.0,0.0,0.5,1.0,1.0,1249.7,4.6,2026-11-12,02:20
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,,3.5,61.6,Bullish,No,No,No,No,18.7,,,1.0,1.5,0.0,0.0,0.0,1.0,0.0,2878.1,39.1,2026-11-12,02:20
+AMD,"Advanced Micro Devices, Inc.",Technology,,3.5,48.6,Bearish,No,No,No,No,28.4,,,1.5,0.0,0.0,0.0,1.0,1.0,0.0,906.8,23.3,2026-11-12,02:20
+MA,Mastercard Incorporated,Financial Services,,3.5,65.8,Bullish,No,No,No,No,49.4,,,0.0,1.5,0.0,0.0,0.0,1.0,1.0,575.6,3.0,2026-11-12,02:20
+PG,Procter & Gamble Company (The),Consumer Defensive,,3.5,69.0,Bullish,No,No,No,No,48.1,,,0.0,1.5,0.0,0.0,0.0,1.0,1.0,388.6,9.3,2026-11-12,02:20
+JNJ,Johnson & Johnson,Healthcare,,3.5,62.1,Bullish,No,No,No,No,35.3,,,1.0,1.5,0.0,0.0,0.0,0.0,1.0,675.0,7.0,2026-11-12,02:20
+WMT,Walmart Inc.,Consumer Defensive,,3.5,63.5,Bullish,No,No,No,No,54.9,,,1.0,1.5,0.0,0.0,0.0,0.0,1.0,997.0,24.0,2026-11-12,02:20
+COST,Costco Wholesale Corporation,Consumer Defensive,,3.5,69.7,Bullish,No,No,No,No,58.2,,,0.0,1.5,0.0,0.0,0.0,1.0,1.0,482.0,2.2,2026-11-12,02:20
+QCOM,QUALCOMM Incorporated,Technology,,3.0,49.9,Bearish,No,No,No,No,18.3,,,1.5,0.0,0.0,0.0,0.5,1.0,0.0,188.9,12.5,2026-11-12,02:20
+GOOGL,Alphabet Inc.,Communication Services,,3.0,32.5,Bearish,No,No,No,No,38.7,,,2.0,0.0,0.0,0.0,0.0,1.0,0.0,3607.7,29.2,2026-11-12,02:20
+GOOG,Alphabet Inc.,Communication Services,,3.0,31.4,Bearish,No,No,No,No,41.8,,,2.0,0.0,0.0,0.0,0.0,1.0,0.0,3573.0,19.3,2026-11-12,02:20
+MRK,"Merck & Company, Inc.",Healthcare,,3.0,53.1,Bullish,No,No,No,No,19.6,,,1.5,1.5,0.0,0.0,0.0,0.0,0.0,362.8,10.4,2026-11-12,02:20
+UNH,UnitedHealth Group Incorporated,Healthcare,,3.0,53.9,Bearish,No,No,No,No,22.6,,,1.5,0.0,0.0,0.0,0.0,1.0,0.5,361.0,5.2,2026-11-12,02:20
+ABBV,AbbVie Inc.,Healthcare,,3.0,62.3,Bearish,No,No,No,No,26.5,,,1.0,0.0,0.0,0.0,0.0,1.0,1.0,521.4,4.8,2026-11-12,02:20
+KLAC,KLA Corporation,Technology,,2.5,44.8,Bearish,No,No,No,No,33.2,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,209.8,11.0,2026-11-12,02:20
+META,"Meta Platforms, Inc.",Communication Services,,2.5,46.5,Bearish,No,No,No,No,30.0,,,1.5,0.0,0.0,0.0,0.0,1.0,0.0,1607.7,21.2,2026-11-12,02:20
+MU,"Micron Technology, Inc.",Technology,,2.5,35.8,Bearish,No,No,No,No,53.8,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,917.9,27.8,2026-11-12,02:20
+AMAT,"Applied Materials, Inc.",Technology,,2.5,42.0,Bearish,No,No,No,No,41.6,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,313.5,7.3,2026-11-12,02:20
+HD,"Home Depot, Inc. (The)",Consumer Cyclical,,2.5,66.3,Bullish,No,No,No,No,62.4,,,0.0,1.5,0.0,0.0,0.0,0.0,1.0,350.5,4.7,2026-11-12,02:20
+LLY,Eli Lilly and Company,Healthcare,,2.5,69.8,Bullish,No,No,No,No,39.2,,,0.0,1.5,0.0,0.0,0.0,0.0,1.0,1280.3,2.6,2026-11-12,02:20
+MRVL,"Marvell Technology, Inc.",Technology,,2.5,32.1,Bearish,No,No,No,No,50.8,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,151.9,24.2,2026-11-12,02:20
+LRCX,Lam Research Corporation,Technology,,2.5,39.8,Bearish,No,No,No,No,46.8,,,2.0,0.0,0.0,0.0,0.5,0.0,0.0,294.7,10.1,2026-11-12,02:20
+PANW,"Palo Alto Networks, Inc.",Technology,,2.0,38.7,Bearish,No,No,No,No,41.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,273.7,6.1,2026-11-12,02:20
+ADBE,Adobe Inc.,Technology,,2.0,40.5,Bearish,No,No,No,No,19.4,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,92.5,4.6,2026-11-12,02:20
+XOM,ExxonMobil Holdings Corporation,Energy,,2.0,37.9,Bearish,No,No,No,No,48.2,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,680.0,13.6,2026-11-12,02:20
+CVX,Chevron Corporation,Energy,,2.0,39.5,Bearish,No,No,No,No,50.0,,,2.0,0.0,0.0,0.0,0.0,0.0,0.0,416.2,8.5,2026-11-12,02:20
+AVGO,Broadcom Inc.,Technology,,2.0,49.4,Bearish,No,No,No,No,31.9,,,1.5,0.0,0.0,0.0,0.5,0.0,0.0,1648.0,24.5,2026-11-12,02:20
+TSLA,"Tesla, Inc.",Consumer Cyclical,,1.5,50.5,Bearish,No,No,No,No,25.9,,,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1544.9,37.9,2026-11-12,02:20
+AAPL,Apple Inc.,Technology,,1.5,55.6,Bearish,No,No,No,No,21.3,,,1.0,0.0,0.0,0.0,0.0,0.0,0.5,5168.1,42.8,2026-11-12,02:20
+MSFT,Microsoft Corporation,Technology,,1.5,52.3,Bearish,No,No,No,No,20.2,,,1.5,0.0,0.0,0.0,0.0,0.0,0.0,3870.0,23.1,2026-11-12,02:20
+NVDA,NVIDIA Corporation,Technology,,1.5,23.9,Bearish,No,No,No,No,63.9,,,0.5,0.0,0.0,0.0,1.0,0.0,0.0,4195.1,127.9,2026-11-12,02:20
+CDNS,"Cadence Design Systems, Inc.",Technology,,1.5,51.8,Bearish,No,No,No,No,19.8,,,1.5,0.0,0.0,0.0,0.0,0.0,0.0,90.3,2.4,2026-11-12,02:20
+SNPS,"Synopsys, Inc.",Technology,,1.5,50.7,Bearish,No,No,No,No,17.9,,,1.5,0.0,0.0,0.0,0.0,0.0,0.0,88.6,2.1,2026-11-12,02:20
+TXN,Texas Instruments Incorporated,Technology,,1.0,55.5,Bearish,No,No,No,No,24.9,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,283.1,6.8,2026-11-12,02:20
+FTNT,"Fortinet, Inc.",Technology,,0.5,28.0,Bearish,No,No,No,No,64.4,,,0.5,0.0,0.0,0.0,0.0,0.0,0.0,94.1,4.7,2026-11-12,02:20
