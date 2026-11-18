@@ -774,3 +774,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-11-17,META,"Meta Platforms, Inc.",5.5,43.9,Bullish,No,626.41
 4,2026-11-17,GOOG,Alphabet Inc.,5.5,33.5,Bullish,No,281.26
 5,2026-11-17,AMD,"Advanced Micro Devices, Inc.",5.5,46.7,Bullish,No,504.28
+1,2026-11-18,JNJ,Johnson & Johnson,6.0,56.4,Bullish,Yes,278.7
+2,2026-11-18,META,"Meta Platforms, Inc.",5.5,42.0,Bullish,No,618.87
+3,2026-11-18,AMD,"Advanced Micro Devices, Inc.",5.5,46.6,Bullish,No,503.41
+4,2026-11-18,QCOM,QUALCOMM Incorporated,5.5,44.7,Bullish,No,166.67
+5,2026-11-18,COST,Costco Wholesale Corporation,5.0,75.4,Bullish,Yes,1110.08
