@@ -779,3 +779,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-11-18,AMD,"Advanced Micro Devices, Inc.",5.5,46.6,Bullish,No,503.41
 4,2026-11-18,QCOM,QUALCOMM Incorporated,5.5,44.7,Bullish,No,166.67
 5,2026-11-18,COST,Costco Wholesale Corporation,5.0,75.4,Bullish,Yes,1110.08
+1,2026-11-19,FTNT,"Fortinet, Inc.",6.0,40.0,Bullish,No,131.81
+2,2026-11-19,AVGO,Broadcom Inc.,6.0,55.1,Bullish,Yes,354.05
+3,2026-11-19,AMZN,"Amazon.com, Inc.",5.0,57.2,Bullish,Yes,267.74
+4,2026-11-19,GOOGL,Alphabet Inc.,5.0,34.9,Bullish,No,282.44
+5,2026-11-19,COST,Costco Wholesale Corporation,5.0,69.2,Bullish,Yes,1096.62
