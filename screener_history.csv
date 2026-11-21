@@ -789,3 +789,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-11-20,AMZN,"Amazon.com, Inc.",5.5,49.0,Bullish,Yes,257.37
 4,2026-11-20,KLAC,KLA Corporation,5.25,39.6,Bullish,No,141.48
 5,2026-11-20,COST,Costco Wholesale Corporation,5.0,67.9,Bullish,Yes,1093.83
+1,2026-11-21,PANW,"Palo Alto Networks, Inc.",7.0,48.8,Bullish,No,343.32
+2,2026-11-21,FTNT,"Fortinet, Inc.",5.5,35.3,Bullish,No,124.56
+3,2026-11-21,AVGO,Broadcom Inc.,5.25,40.8,Bullish,No,304.41
+4,2026-11-21,COST,Costco Wholesale Corporation,5.0,69.7,Bullish,Yes,1102.15
+5,2026-11-21,WMT,Walmart Inc.,4.5,64.0,Bearish,Yes,127.95
