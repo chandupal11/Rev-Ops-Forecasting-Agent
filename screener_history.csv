@@ -799,3 +799,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-11-24,CVX,Chevron Corporation,4.25,39.3,Bearish,No,206.17
 4,2026-11-24,GOOG,Alphabet Inc.,4.0,40.3,Bullish,No,279.53
 5,2026-11-24,LRCX,Lam Research Corporation,4.0,42.3,Bullish,No,209.76
+1,2026-11-25,PANW,"Palo Alto Networks, Inc.",6.5,51.7,Bullish,No,352.99
+2,2026-11-25,LRCX,Lam Research Corporation,4.25,38.7,Bullish,No,196.16
+3,2026-11-25,GOOG,Alphabet Inc.,4.0,38.8,Bullish,No,276.58
+4,2026-11-25,GOOGL,Alphabet Inc.,4.0,39.6,Bullish,No,279.05
+5,2026-11-25,WMT,Walmart Inc.,4.0,71.6,Bearish,Yes,132.31
