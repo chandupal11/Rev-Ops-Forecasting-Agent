@@ -809,3 +809,8 @@ Rank,Run_Date,Symbol,Name,Score,RSI,MACD_Signal,Above_50SMA,Price
 3,2026-11-26,GOOG,Alphabet Inc.,4.75,36.1,Bullish,No,270.98
 4,2026-11-26,GOOGL,Alphabet Inc.,4.75,36.9,Bullish,No,273.1
 5,2026-11-26,MRVL,"Marvell Technology, Inc.",4.75,35.1,Bullish,No,130.93
+1,2026-11-27,WMT,Walmart Inc.,5.5,70.2,Bullish,Yes,131.94
+2,2026-11-27,PANW,"Palo Alto Networks, Inc.",5.0,52.7,Bullish,No,356.14
+3,2026-11-27,GOOG,Alphabet Inc.,4.75,36.1,Bullish,No,270.98
+4,2026-11-27,GOOGL,Alphabet Inc.,4.75,36.9,Bullish,No,273.1
+5,2026-11-27,MRVL,"Marvell Technology, Inc.",4.75,35.1,Bullish,No,130.93
